@@ -39,6 +39,26 @@ a.2-wallet :
 
 <img width="548" alt="image" src="https://github.com/rachaajouad/racha-ajouad-enset-adria-test/assets/100244224/e09de87b-e280-4cca-93da-0dde945f8064">
 
+b-repositories :
+
+a.1-ClientRepository : 
+
+<img width="719" alt="image" src="https://github.com/rachaajouad/racha-ajouad-enset-adria-test/assets/100244224/80e76754-ce4b-4d54-b498-da2bee1c908a">
+
+a.2-WalletRepository : 
+
+<img width="784" alt="image" src="https://github.com/rachaajouad/racha-ajouad-enset-adria-test/assets/100244224/26d48a01-fe7d-465f-bd7f-47ebc619efcd">
+
+c-application.properties :
+
+<img width="572" alt="image" src="https://github.com/rachaajouad/racha-ajouad-enset-adria-test/assets/100244224/592ff746-2bc6-46c4-822d-98af361f43a2">
+
+
+
+
+
+
+
 
 
 
